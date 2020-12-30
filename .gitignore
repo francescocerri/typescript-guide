@@ -8,4 +8,6 @@
 10-modules-namespaces/node_modules
 11-modules-es6/node_modules
 12-webpack/node_modules
+13-3rd-part-library/node_modules
+14-select&share-place/node_modules
 
